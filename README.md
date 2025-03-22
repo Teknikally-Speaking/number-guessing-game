@@ -29,4 +29,4 @@ This is a simple **Python project** where the program generates a random number 
 1. Make sure you have **Python 3** installed on your computer.
 2. Download or copy the `number_guessing_game.py` file.
 3. Open a terminal and navigate to the file's directory.
-4. Run the game using:
+4. Run the game using: python number_guessing_game.py
